@@ -37,6 +37,6 @@ The visualizations simplify complex data and help uncover patterns that may guid
 
 ## Contact
 
-For questions, feedback, or collaboration:
-LinkedIn: https://www.linkedin.com/in/pranav-kumar-553583394
+For questions, feedback, or collaboration:<br>
+LinkedIn: https://www.linkedin.com/in/pranav-kumar-553583394<br>
 Email: d.sci.pranav@gmail.com
